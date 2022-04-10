@@ -3,12 +3,12 @@ entries:
   testapp-helm-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-10T10:08:41.595722+05:30"
+    created: "2022-04-10T11:23:50.763085+05:30"
     description: A Helm chart for Kubernetes
-    digest: 9cc773aae353804754d94b15a2542b5f11f75d8f199ba11f89517143e9d74342
+    digest: 909ffff91938a49ec39e4243eaa9103e3d6d0c708f09f02e6c02a8601b338e51
     name: testapp-helm-app
     type: application
     urls:
     - https://ram-aws.github.io/testapp-helm-charts/testapp-helm-app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-10T10:08:41.595048+05:30"
+generated: "2022-04-10T11:23:50.762482+05:30"
