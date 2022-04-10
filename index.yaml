@@ -9,6 +9,6 @@ entries:
     name: testapp-helm-app
     type: application
     urls:
-    - https://ram-aws.github.io/testapp-helm-charts/testapp-helm-app-0.1.0.tgz
-    version: 0.1.0
+    - https://ram-aws.github.io/testapp-helm-charts/testapp-helm-app-1.0.0.tgz
+    version: 1.0.0
 generated: "2022-04-10T11:23:50.762482+05:30"
